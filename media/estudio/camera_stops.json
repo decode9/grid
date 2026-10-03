@@ -1,0 +1,34 @@
+{
+  "fps": 30,
+  "frames": 465,
+  "stops": [
+    {
+      "id": "fondo-azul",
+      "arrive": 50,
+      "leave": 95
+    },
+    {
+      "id": "sofa-terracota",
+      "arrive": 135,
+      "leave": 180
+    },
+    {
+      "id": "ventana-redonda",
+      "arrive": 220,
+      "leave": 265
+    },
+    {
+      "id": "aro-de-luz",
+      "arrive": 305,
+      "leave": 350
+    },
+    {
+      "id": "mesa-redonda",
+      "arrive": 390,
+      "leave": 435
+    }
+  ],
+  "setDistance": 3.9,
+  "openingDistance": 8.545,
+  "subjectAngle": 12.295
+}

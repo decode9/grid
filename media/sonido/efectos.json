@@ -1,0 +1,22 @@
+{
+  "obturador": {
+    "start": 0.0,
+    "duration": 0.53
+  },
+  "tercios": {
+    "start": 0.78,
+    "duration": 0.85
+  },
+  "salida": {
+    "start": 1.88,
+    "duration": 0.75
+  },
+  "pop": {
+    "start": 2.88,
+    "duration": 0.51
+  },
+  "tick": {
+    "start": 3.64,
+    "duration": 0.4
+  }
+}

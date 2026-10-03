@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /render/
+
+Sitemap: https://gridstudio.website/sitemap.xml
